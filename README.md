@@ -1,3 +1,11 @@
 # shoppinglist
 
-salmon
+turkey
+
+beef
+
+lamb
+
+tomatoes
+
+red onions
