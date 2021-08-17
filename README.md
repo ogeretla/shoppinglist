@@ -8,4 +8,4 @@ lamb
 
 tomatoes
 
-onions
+red onions
