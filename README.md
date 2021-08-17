@@ -1,7 +1,11 @@
 # shoppinglist
 
-salmon
+turkey
 
 beef
 
-veal
+lamb
+
+tomatoes
+
+onions
